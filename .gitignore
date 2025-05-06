@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+pnpm-lock.yaml
+
+# Next.js build output
+.next/
+
+# Editor configs
+.vscode/
+.idea/
+
+# Tailwind cache
+.tailwind-cache/
+
+# Cloudflare wrangler
+.wrangler/
